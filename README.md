@@ -5,6 +5,7 @@ Current ROS Simulation enviroment [gazebo](https://gazebosim.org/libs/physics)
 
 Existing Bridges/Plugins
 - [ROSIntegration](https://github.com/code-iai/ROSIntegration)
+- [turtlebot3-UE](https://github.com/rapyuta-robotics/turtlebot3-UE/tree/devel)
 
 ## ROS related information
 ### Rosbridge
