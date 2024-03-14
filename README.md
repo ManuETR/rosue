@@ -7,6 +7,7 @@ Existing Bridges/Plugins
 - [ROSIntegration](https://github.com/code-iai/ROSIntegration)
 - [turtlebot3-UE](https://github.com/rapyuta-robotics/turtlebot3-UE/tree/devel)
 - [ROS DDS](https://design.ros2.org/articles/ros_on_dds.html)
+- [ROSlib](https://github.com/RobotWebTools/roslibjs)
 
 ## ROS related information
 ### Rosbridge
